@@ -1,4 +1,4 @@
-class typeArray {
+export default class typeArray {
     val = []
     type = ''
 
